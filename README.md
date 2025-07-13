@@ -11,3 +11,6 @@
 ## $\text{Images without railways}$
 <img src="https://github.com/user-attachments/assets/a60e97e8-b0d5-4715-b034-6662437e98b8"  width="500" height="300">
 <img src="https://github.com/user-attachments/assets/9ebf801f-f518-486b-b175-27a90c0da338"  width="500" height="300")>
+
+## $\text{In last version I update our service and now everyone can run it on their computer}$
+$\large\text{In next version I'll integrate the RabbitMQ in our service}$
